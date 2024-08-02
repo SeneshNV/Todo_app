@@ -1,0 +1,34 @@
+.input_form{
+    display: flex;
+}
+
+.task_insert_form{
+    background-color: rgb(204, 240, 255);
+    padding: 10px;
+    margin: 30px auto;
+    width: 400px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgb(0, 0, 0, 0.1);
+    
+}
+
+.text_box{
+    width: 100%;
+    padding: 10px;
+    justify-content: center;
+    border: none;
+    border-left: 2px solid black;
+    background-color: transparent;
+    margin-bottom: 10px;
+}
+
+.text_box:focus{
+    outline: none;
+}
+
+.add_button{
+    background-color: #c6ff80;
+    padding: 5px;
+    border-radius: 6px;
+    border: 1px solid green;
+}

@@ -1,0 +1,11 @@
+.footer{
+    position: fixed;
+    bottom: 0;
+    background-color: goldenrod;
+    width: 100%;
+    text-align: center;
+}
+
+.task_count{
+    margin: 20px;
+}
